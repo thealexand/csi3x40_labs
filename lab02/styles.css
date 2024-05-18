@@ -1,0 +1,44 @@
+h1{
+    font-size: 23px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding-top: 1;
+    padding-bottom: 3;
+}
+
+h2{
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    margin: 1.5px;
+    padding-left: 3%;
+}
+
+#title{
+    padding-left: 0%;
+    font-size: 18px;
+}
+
+li{
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+
+ul{
+    padding-left: 3%;
+    margin-top: 1.5px;
+}
+
+hr{
+    height: 5px;
+    border-width: 0;
+    background-color: #000000;
+}
+
